@@ -6,63 +6,109 @@ include_in_header: true
 
 # Privacy Policy
 
-Ryan Latture built the Celerie app as a Commercial app. This SERVICE is provided by Ryan Latture and is intended for use as is.
+Ryan Latture built the Celerie app as a free app. Celerie is provided at no cost and is intended for
+use as is.
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+This page explains what Celerie does with your information. In short: Celerie has no user accounts
+and no server of its own. The food you log is stored on your device, and — if you have iCloud
+enabled — in your own private iCloud account, which I cannot access.
 
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+The terms used in this Privacy Policy have the same meanings as in the Terms and Conditions, which
+are accessible from within Celerie, unless otherwise defined here.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Celerie unless otherwise defined in this Privacy Policy.
+### What Celerie Stores, and Where
 
-### Information Collection and Use
+Celerie does not ask you to create an account and does not ask for your name, email address, or any
+other contact information. What you enter — the foods, meals, recipes, and goals you record — is
+stored on your device.
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
+If you have iCloud enabled on your device, this information is also synchronised through Apple's
+iCloud service so that it is available on your other devices. It is stored in your own private
+iCloud account, under your Apple ID. I do not operate a server, I do not receive a copy, and I have
+no ability to read, retrieve, or delete what is stored there. Apple's handling of iCloud data is
+governed by Apple's own privacy policy.
 
-### Log Data
+Some of your settings are synchronised the same way, through iCloud, so that your preferences match
+across your devices.
 
-I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+### Information Sent Over the Network
 
-### Cookies
+Celerie sends information off your device in one circumstance only: when you search the food
+database. Searching sends the text you type to Edamam, the nutrition data provider. Scanning a
+product barcode sends that barcode number to Edamam in the same way. Edamam returns nutrition
+information, which Celerie then stores on your device as described above.
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+Nothing else you record is transmitted to me or to any third party. Your logged meals, recipes,
+custom foods, goals, and daily totals are never sent to Edamam or anywhere else.
 
-This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+Edamam is an independent company and its use of the information it receives is governed by its own
+privacy policy, linked below. I have no control over its practices and assume no responsibility for
+them.
 
-### Service Providers
+### Camera and Photos
 
-I may employ third-party companies and individuals due to the following reasons:
+Celerie asks for camera access so that you can scan barcodes and nutrition labels. Nutrition-label
+recognition is performed entirely on your device using Apple's on-device text recognition.
+Photographs and camera images are not uploaded, not transmitted, and not retained by Celerie — only
+the numbers you confirm are saved, and they are saved on your device.
 
-*   To facilitate our Service;
-*   To provide the Service on our behalf;
-*   To perform Service-related services; or
-*   To assist us in analyzing how our Service is used.
+### Analytics, Advertising, and Crash Reporting
 
-I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+Celerie contains no advertising, no analytics service, and no crash-reporting service. It does not
+track you across apps or websites, and it does not build a profile of you.
+
+Should this ever change — for example, if crash reporting is added in a future version to help
+diagnose problems — this policy and the app's App Store privacy information will be updated to
+describe it before that version is released.
+
+### Your Control Over Your Information
+
+Because your information is held on your device and in your own iCloud account, you control it
+directly. You can delete individual entries, meals, recipes, and custom foods from within Celerie.
+Deleting the app removes the data stored on that device, and iCloud data can be managed or removed
+through the iCloud settings on your device or through your Apple ID account.
+
+Since I hold no copy of your information, there is nothing for me to delete on your behalf, and no
+account for me to close.
 
 ### Security
 
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+I use commercially acceptable means to protect information handled by Celerie. Please be aware,
+however, that no method of transmission over the internet and no method of electronic storage is
+completely secure, and absolute security cannot be guaranteed. Information stored in iCloud is
+protected by Apple's security measures, and information sent to Edamam is subject to Edamam's.
 
 ### Links to Other Sites
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+This Service may contain links to other sites. If you click a third-party link, you will be directed
+to that site. These external sites are not operated by me, and I strongly advise you to review their
+privacy policies. I have no control over and assume no responsibility for the content, privacy
+policies, or practices of any third-party sites or services.
 
-### Children’s Privacy
+### Children's Privacy
 
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13\. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
+Celerie is not directed to children under 13. It does not ask for personal information from anyone,
+and I do not knowingly receive personal information from children under 13 — I receive no user
+information at all, as described above. Information a child entered into the app would be held on
+that child's device and in that family's own iCloud account, where a parent or guardian can remove
+it directly.
 
-### Third-party Libraries
+If you are a parent or guardian and have a concern about your child's use of Celerie, please contact
+me using the address below and I will assist as far as I am able.
 
-Celerie uses [RevenueCat](https://www.revenuecat.com) to process in-app subscriptions. Their Privacy Policy can be found at [here](https://www.revenuecat.com/privacy).
-​
-Nutritional data is provided by [Edamam](https://www.edamam.com). Their Privacy Policy can be found [here](https://www.edamam.com/about/privacy.jsp).
+### Third-party Services
+
+Nutrition data is provided by Edamam. Their privacy policy can be found here:
+<https://www.edamam.com/about/privacy.jsp>
 
 ### Changes to This Privacy Policy
 
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
+I may update this Privacy Policy from time to time. You are advised to review this page periodically
+for any changes. Changes will be posted here, and the effective date below will be updated.
 
-This policy is effective as of 2021-01-21
+This policy is effective as of 2026-08-23.
 
 ### Contact Me
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at ryan.latture@gmail.com.
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at
+ryan.latture@gmail.com.

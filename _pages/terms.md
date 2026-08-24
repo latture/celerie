@@ -6,11 +6,19 @@ include_in_header: true
 
 # Terms & Conditions
 
+## Health Disclaimer
+
+Celerie is a food diary. It is not a medical device, and it does not provide medical, nutritional, or dietary advice. The information it shows — including calorie counts, macronutrient figures, and any goals or totals it calculates — is for general informational purposes only and is not a substitute for advice from a qualified physician, dietitian, or other health professional.
+
+Nutrition figures come from a third-party database, from nutrition labels you scan, and from values you enter yourself. They may be incomplete, out of date, or wrong. Scanning and text recognition can misread a label. Do not rely on Celerie for any decision where accuracy matters to your health.
+
+Always consult a qualified health professional before starting or changing a diet, and particularly if you are pregnant or nursing, are under 18, have a medical condition, take medication, or have a history of disordered eating. If you believe you have a medical emergency, contact your doctor or emergency services immediately. Ryan Latture accepts no liability for any decision you make, or any outcome you experience, in reliance on the app.
+
 By downloading or using the app, these terms will automatically apply to you – you should make sure therefore that you read them carefully before using the app. You’re not allowed to copy, or modify the app, any part of the app, or our trademarks in any way. You’re not allowed to attempt to extract the source code of the app, and you also shouldn’t try to translate the app into other languages, or make derivative versions. The app itself, and all the trade marks, copyright, database rights and other intellectual property rights related to it, still belong to Ryan Latture.
 
 Ryan Latture is committed to ensuring that the app is as useful and efficient as possible. For that reason, we reserve the right to make changes to the app or to charge for its services, at any time and for any reason. We will never charge you for the app or its services without making it very clear to you exactly what you’re paying for.
 
-The Celerie app stores and processes personal data that you have provided to us, in order to provide my Service. It’s your responsibility to keep your phone and access to the app secure. We therefore recommend that you do not jailbreak or root your phone, which is the process of removing software restrictions and limitations imposed by the official operating system of your device. It could make your phone vulnerable to malware/viruses/malicious programs, compromise your phone’s security features and it could mean that the Celerie app won’t work properly or at all.
+Celerie stores and processes the information you enter on your device, and — if you have iCloud enabled — in your own private iCloud account. It is not sent to me, and I hold no copy of it; see the Privacy Policy for details. It’s your responsibility to keep your phone and access to the app secure. We therefore recommend that you do not jailbreak or root your phone, which is the process of removing software restrictions and limitations imposed by the official operating system of your device. It could make your phone vulnerable to malware/viruses/malicious programs, compromise your phone’s security features and it could mean that the Celerie app won’t work properly or at all.
 
 You should be aware that there are certain things that Ryan Latture will not take responsibility for. Certain functions of the app will require the app to have an active internet connection. The connection can be Wi-Fi, or provided by your mobile network provider, but Ryan Latture cannot take responsibility for the app not working at full functionality if you don’t have access to Wi-Fi, and you don’t have any of your data allowance left.
 
@@ -26,7 +34,7 @@ At some point, we may wish to update the app. The app is currently available on 
 
 I may update our Terms and Conditions from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Terms and Conditions on this page.
 
-These terms and conditions are effective as of 2021-01-13
+These terms and conditions are effective as of 2026-08-23
 
 ### Contact Me
 
