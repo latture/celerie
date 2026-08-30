@@ -39,9 +39,13 @@ features                                  :
     fontawesome_icon_name                 : cogs
 
   - title                                 : Extensive food database
-    description                           : Search for foods by text. Pro users can search by scanning a barcode.
+    description                           : Search for foods by text, or scan a barcode
     fontawesome_icon_name                 : database
-    
+
+  - title                                 : Scan a nutrition label
+    description                           : Capture a label, review what was read, then save. Scanning happens entirely on your device.
+    fontawesome_icon_name                 : camera
+
   - title                                 : Create custom foods
     description                           : When you can't find what you're looking for in the database
     fontawesome_icon_name                 : utensils
@@ -50,8 +54,16 @@ features                                  :
     description                           : Conveniently log your favorite recipes
     fontawesome_icon_name                 : cookie-bite
 
+  - title                                 : Widgets and Control Center
+    description                           : See your day on the Home Screen and Lock Screen, and tap a meal to log straight into it
+    fontawesome_icon_name                 : th-large
+
+  - title                                 : Siri and Shortcuts
+    description                           : Log a food by voice, ask how you're doing against your goal, and build Celerie into your own shortcuts
+    fontawesome_icon_name                 : microphone
+
   - title                                 : Privacy focused
-    description                           : No ads or tracking
+    description                           : No ads, no tracking, and no subscription. Every feature is free.
     fontawesome_icon_name                 : lock
 
 # Theme Settings
