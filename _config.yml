@@ -59,8 +59,12 @@ features                                  :
     fontawesome_icon_name                 : th-large
 
   - title                                 : Siri and Shortcuts
-    description                           : Log a food by voice, ask how you're doing against your goal, and build Celerie into your own shortcuts
+    description                           : Log a food by voice, ask how you're doing against your goal, or get a daily nutrition summary for your own shortcuts
     fontawesome_icon_name                 : microphone
+
+  - title                                 : Share a daily summary
+    description                           : Copy or share a day's foods and nutrition totals. You choose the destination.
+    fontawesome_icon_name                 : share-alt
 
   - title                                 : Privacy focused
     description                           : No ads, no tracking, and no subscription. Every feature is free.

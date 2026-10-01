@@ -33,13 +33,9 @@ across your devices.
 
 ### Information Sent Over the Network
 
-Celerie sends information off your device in one circumstance only: when you search the food
-database. Searching sends the text you type to Edamam, the nutrition data provider. Scanning a
-product barcode sends that barcode number to Edamam in the same way. Edamam returns nutrition
-information, which Celerie then stores on your device as described above.
+When you search the food database, Celerie sends the text you type to Edamam, the nutrition data provider. Scanning a product barcode sends that barcode number to Edamam in the same way. Edamam returns nutrition information, which Celerie then stores on your device as described above.
 
-Nothing else you record is transmitted to me or to any third party. Your logged meals, recipes,
-custom foods, goals, and daily totals are never sent to Edamam or anywhere else.
+Your logged meals, recipes, custom foods, goals, and daily totals are not automatically sent to me or to Edamam. You can choose to share a custom food or recipe, or copy or share a daily nutrition summary. The daily-summary Shortcuts action returns text on your device; any later action you add determines where that text goes. A destination you select may receive food names, quantities, meal names, dates, and nutrition totals. Its handling of that information is governed by its own privacy policy. Celerie does not automatically send summaries to ChatGPT or any other service.
 
 Edamam is an independent company and its use of the information it receives is governed by its own
 privacy policy, linked below. I have no control over its practices and assume no responsibility for
@@ -99,14 +95,14 @@ me using the address below and I will assist as far as I am able.
 ### Third-party Services
 
 Nutrition data is provided by Edamam. Their privacy policy can be found here:
-<https://www.edamam.com/about/privacy.jsp>
+<https://www.edamam.com/privacy/>
 
 ### Changes to This Privacy Policy
 
 I may update this Privacy Policy from time to time. You are advised to review this page periodically
 for any changes. Changes will be posted here, and the effective date below will be updated.
 
-This policy is effective as of 2026-08-23.
+This policy is effective as of 2026-09-30.
 
 ### Contact Me
 
