@@ -62,8 +62,8 @@ features                                  :
     description                           : Log a food by voice, ask how you're doing against your goal, or get a daily nutrition summary for your own shortcuts
     fontawesome_icon_name                 : microphone
 
-  - title                                 : Share a daily summary
-    description                           : Copy or share a day's foods and nutrition totals. You choose the destination.
+  - title                                 : Your day in Shortcuts
+    description                           : Get a day's foods and nutrition totals as local text for the next action in your Shortcut.
     fontawesome_icon_name                 : share-alt
 
   - title                                 : Privacy focused
